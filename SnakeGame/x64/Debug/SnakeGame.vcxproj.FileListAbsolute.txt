@@ -1,0 +1,2 @@
+C:\Users\CompStore\Documents\Work\Projects\SnakeGame\x64\Debug\raylib.dll
+C:\Users\CompStore\Documents\Work\Projects\SnakeGame\SnakeGame\x64\Debug\SnakeGame.vcxproj.Up2Date
